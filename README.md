@@ -1,1 +1,1 @@
-# temp
+This android App is created to provide teachers and students a platform to upload, shareand download the class Assignments and notes.The teachers can send notifications to the students regarding submission deadlines and others. The students receive notifications on android phones and open them to view the latest uploaded file.
