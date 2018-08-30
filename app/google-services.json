@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437346867256",
+    "firebase_url": "https://hvsustudentteachersapp.firebaseio.com",
+    "project_id": "hvsustudentteachersapp",
+    "storage_bucket": "hvsustudentteachersapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437346867256:android:e2db1c7d16b4282a",
+        "android_client_info": {
+          "package_name": "com.android.kunal.hvsustudentteachersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437346867256-rs291ls8p7qitu0vohhefco2q395cn11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.kunal.hvsustudentteachersapp",
+            "certificate_hash": "382f7fc44f46e264973a53aa67caaefd8ef951b4"
+          }
+        },
+        {
+          "client_id": "437346867256-dh50456adafmdeo5el94mva8ohspgjr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0h4cvua3Qgo_jDEGkob0dkODYOGfBNT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437346867256-dh50456adafmdeo5el94mva8ohspgjr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
